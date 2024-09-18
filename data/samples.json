@@ -1,0 +1,17 @@
+[
+    {
+        "recording-rate": 5,
+        "sample-type": "2",
+        "data": "120,126,122,140,142,155,145"
+    },
+    {
+        "recording-rate": 5,
+        "sample-type": "2",
+        "data": "141,147,155,160,180,152,120"
+    },
+    {
+        "recording-rate": 5,
+        "sample-type": "2",
+        "data": "143,151,164,null,173,181,180"
+    }
+]
